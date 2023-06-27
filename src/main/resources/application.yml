@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    password: messi
+    url: jdbc:postgresql://localhost:5432/todoDB
+    username: postgres
+
+
+server:
+  port: 8081
+
